@@ -1,5 +1,6 @@
 {
-  "name": "mutation",
+  "name": "nextjs-optimizations",
+  "description": "NextJS optimizations",
   "version": "0.1.0",
   "private": true,
   "scripts": {
